@@ -6,4 +6,4 @@ ACTIWARE.IO delivers a next-level user experience—smarter data handling, strea
 
 ## Get started 🙌
 
-earn more about ACTIWARE.IO, explore our Docker images and how to use them with Docker Compose, or dive into our sample repositories to start building your own modules.
+Learn more about ACTIWARE.IO, explore our Docker images and how to use them with Docker Compose, or dive into our sample repositories to start building your own modules.
